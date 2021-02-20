@@ -263,6 +263,13 @@ nav {
   align-self: center;
   text-align: center;
 }
+.header-content h3 {
+  /*font-family: "Righteous", cursive;*/
+  display: block;
+  font-size: 2.0rem;
+  align-self: center;
+  text-align: center;
+}
 /* Notification*/
 
 .alert {
@@ -324,7 +331,7 @@ nav {
 .timeline-head h3 {
   font-family: "Poppins";
   font-size: 3rem;
-  color: #222;
+  color: #051037;
   margin: 2rem 0 0rem;
 }
 
@@ -359,7 +366,7 @@ nav {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #222;
+  background: #051037;
   /* box-shadow: 0 8px 6px -6px black; */
   /* box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0), 0 100px 80px rgba(0, 0, 0, 0); */
   color: #fff;

@@ -84,7 +84,7 @@
 
 body {
     /* background: #fbfafb; */
-    /* background: #222; */
+    /* background: #051037; */
     /* color: #fff !important; */
     font-size: 14px;
     color: #000;
@@ -136,9 +136,9 @@ body {
     border-radius: 50px;
     width: 228px !important;
     box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0), 0 100px 80px rgba(0, 0, 0, 0);
-    /* border: 2px solid #222; */
+    /* border: 2px solid #051037; */
     user-select: none;
-    background: #222;
+    background: #051037;
     color: #eee;
     transition: 0.4s !important;
     padding: 0 25px;
@@ -190,7 +190,7 @@ body {
 
 /* .swiper-slide:hover a {
     background: #fff;
-    color: #222;
+    color: #051037;
 } */
 
 .swiper-slide .play-card {
@@ -245,7 +245,7 @@ body {
 .proj-info {
     position: relative;
     display: flex;
-    background: #222;
+    background: #051037;
     font-family: "Montserrat", sans-serif;
     user-select: none;
     height: 380px;
@@ -344,7 +344,7 @@ body {
 
 .proj-info .proj-author .author-links a i {
     font-size: 1.4rem;
-    text-shadow: 2px 2px 4px #222;
+    text-shadow: 2px 2px 4px #051037;
     transition: 0.3s;
 }
 

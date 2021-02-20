@@ -22,13 +22,7 @@ function Navbar() {
                 <a class="nav-link" href="./index.html#about">About Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./project.html">Projects</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./index.html#sponsors">Sponsors</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./team.html">Our Team</a>
+                <a class="nav-link" href="./index.html#apply">Apply</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#contact">Contact Us</a>
@@ -46,7 +40,7 @@ function Navbar() {
             <ul>
             <li><a href="./index.html#about">About Us</a></li>
             <li><a href="./index.html#apply">Apply</a></li>
-            <li><a href="./index.html#sponsors">Sponsors</a></li>
+            <!--<li><a href="./index.html#sponsors">Sponsors</a></li>--!>
             <!--<li><a href="./team.html">Our Team</a></li>--!>
             <li><a href="#contact">Contact Us</a></li>
             </ul>
